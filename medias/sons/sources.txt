@@ -1,0 +1,12 @@
+Sources des sons
+
+Freesound.org: 
+https://freesound.org/people/Leszek_Szary/sounds/?page=5#sound
+
+clicBulle => Leszek_Szary,
+gameOver => Leszek_Szary,
+bouton => Leszek_Szary,
+mauvaiseReponse => Leszek_Szary
+
+----------------------------------------------------------------
+

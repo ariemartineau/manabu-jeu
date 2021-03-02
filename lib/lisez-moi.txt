@@ -1,0 +1,3 @@
+VIDE pour l'instant, on utilise le lien avec le serveur CDN - Voir Page index.html
+
+<script src="//cdn.jsdelivr.net/npm/phaser@3.22.0/dist/phaser.js"></script>
